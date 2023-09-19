@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T12:08:58.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="Nk8pw6AGene-jLbzksAf" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-19T12:09:40.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="b3ppSMAOukZSX1U6WlOT" version="21.6.8" type="github" pages="3">
   <diagram name="желательная" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -184,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C_KNxXhGVmDPq3MsO7Rk-5" value="OrganizationID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_KNxXhGVmDPq3MsO7Rk-4">
+        <mxCell id="C_KNxXhGVmDPq3MsO7Rk-5" value="&lt;div&gt;RTVP OrganizationID&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="C_KNxXhGVmDPq3MsO7Rk-4">
           <mxGeometry x="-0.0484" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
